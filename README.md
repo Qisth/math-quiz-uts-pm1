@@ -1,17 +1,22 @@
-# pm1_uts
+# Math Quiz
 
-A new Flutter project.
+*Dibuat oleh Muhammad Qisthan Aufar Syahputra (241401075) dari Lab Pemrograman Mobile 1*
 
-## Getting Started
+Math Quiz adalah aplikasi kuis pilihan ganda yang berisi 25 soal tentang matematika, dengan operasi perhitungan yang dilibatkan berupa penjumlahan, pengurangan, perkalian, dan pembagian. Aplikasi ini merupakan adaptasi mobile dari ["Math Quiz"](https://github.com/Qisth/math-quiz) yaitu halaman web yang dibuat untuk proyek akhir CS50x. Fitur-fitur yang tersedia yaitu:
 
-This project is a starting point for a Flutter application.
+* Memungkinkan *user* melihat nomor soal yang dikerjakan
+* Umpan balik/*feedback* atas jawaban soal
+* Ringkasan statistik kuis *user*, yang terdiri dari nilai, peringkat nilai (dari A+ sampai D), jumlah benar, dan jumlah salah
 
-A few resources to get you started if this is your first Flutter project:
+## Aset yang Digunakan
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Aset yang digunakan dibuat oleh saya sendiri, kecuali untuk font, di mana font yang digunakan adalah ["IBM Plex Sans"](https://fonts.google.com/specimen/IBM+Plex+Sans) oleh Mike Abbink dan Bold Monday.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot Halaman Aplikasi
+![Halaman Menu](<MenuScreen.jpeg>)
+![Halaman Kuis](<QuizScreen.jpeg>)
+![Halaman Hasil](<ResultsScreen.jpeg>)
+
+## Mockup Aplikasi
+
+## Video Presentasi Aplikasi
