@@ -21,4 +21,4 @@ Aset yang digunakan dibuat oleh saya sendiri, kecuali untuk font, di mana font y
 [Link Mockup](https://www.figma.com/proto/fkRvkipd2dFzjlMDcwSi0T?node-id=0-1&t=lDcF1lJBinu2YRKy-6)
 
 ## Video Presentasi Aplikasi
-[Link Video](https://youtu.be/QdVk8ayjeu0)
+[Link Video](https://youtu.be/XzxIXn5GgZ0)
