@@ -13,7 +13,7 @@ class Surface extends StatelessWidget {
       body: Center(
         child: Container(
           width: screenWidth * 0.8,
-          height: screenHeight * 0.6,
+          height: screenHeight * 0.64,
           padding: EdgeInsets.all(24),
           decoration: BoxDecoration(
             borderRadius: BorderRadius.all(Radius.circular(15)),
