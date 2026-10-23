@@ -48,13 +48,13 @@ class _MenuScreenState extends State<MenuScreen> {
               fontSize: screenWidth * 0.1,
             ),
           ),
-          SizedBox(height: screenHeight * 0.03),
+          SizedBox(height: screenHeight * 0.06),
           Text(
             'Di dalam kuis ini terdapat 25 soal matematika. Jawaban benar bernilai 4, sedangkan jawaban salah bernilai 0. Kerjakan dengan sebaik mungkin ya!!',
             textAlign: TextAlign.center,
             style: TextStyle(fontSize: screenWidth * 0.05),
           ),
-          SizedBox(height: screenHeight * 0.03),
+          SizedBox(height: screenHeight * 0.053),
           TextField(
             controller: _nameController,
             style: TextStyle(color: Colors.white, fontSize: screenWidth * 0.05),
@@ -73,7 +73,7 @@ class _MenuScreenState extends State<MenuScreen> {
               ),
             ),
           ),
-          SizedBox(height: screenHeight * 0.02),
+          SizedBox(height: screenHeight * 0.015),
           SizedBox(
             width: double.infinity,
             child: Container(

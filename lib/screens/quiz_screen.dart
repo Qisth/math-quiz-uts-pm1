@@ -64,7 +64,7 @@ class _QuizScreenState extends State<QuizScreen> {
             'Soal ${_currentQuestionIndex + 1}/${questionsList.length}',
             style: TextStyle(
               fontWeight: FontWeight.w700,
-              fontSize: screenWidth * 0.07,
+              fontSize: screenWidth * 0.1,
             ),
           ),
           SizedBox(height: screenHeight * 0.04),

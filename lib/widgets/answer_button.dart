@@ -48,7 +48,7 @@ class AnswerButton extends StatelessWidget {
     }
 
     return Padding(
-      padding: EdgeInsets.only(bottom: screenHeight * 0.02),
+      padding: EdgeInsets.only(bottom: screenHeight * 0.016),
       child: Container(
         width: double.infinity,
         decoration: BoxDecoration(
