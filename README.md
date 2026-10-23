@@ -2,7 +2,7 @@
 
 *Dibuat oleh Muhammad Qisthan Aufar Syahputra (241401075) dari Lab Pemrograman Mobile 1*
 
-Math Quiz adalah aplikasi kuis pilihan ganda yang berisi 25 soal tentang matematika, dengan operasi perhitungan yang dilibatkan berupa penjumlahan, pengurangan, perkalian, dan pembagian. Aplikasi ini merupakan adaptasi mobile dari ["Math Quiz"](https://github.com/Qisth/math-quiz) yaitu halaman web yang dibuat untuk proyek akhir CS50x. Fitur-fitur yang tersedia yaitu:
+Math Quiz adalah aplikasi kuis pilihan ganda yang berisi 25 soal tentang matematika, dengan operasi perhitungan yang dilibatkan berupa penjumlahan, pengurangan, perkalian, dan pembagian. Aplikasi ini merupakan adaptasi mobile dari [Math Quiz](https://github.com/Qisth/math-quiz) yaitu halaman web yang dibuat untuk proyek akhir CS50x. Fitur-fitur yang tersedia yaitu:
 
 * Memungkinkan *user* melihat nomor soal yang dikerjakan
 * Umpan balik/*feedback* atas jawaban soal
@@ -18,5 +18,7 @@ Aset yang digunakan dibuat oleh saya sendiri, kecuali untuk font, di mana font y
 ![Halaman Hasil](<ResultsScreen.jpeg>)
 
 ## Mockup Aplikasi
+[Link Mockup](https://www.figma.com/proto/fkRvkipd2dFzjlMDcwSi0T?node-id=0-1&t=lDcF1lJBinu2YRKy-6)
 
 ## Video Presentasi Aplikasi
+[Link Video](https://youtu.be/QdVk8ayjeu0)
